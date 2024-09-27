@@ -39,7 +39,7 @@
 
 [<img align="left" height="94px" width="94px" alt="codenapp" src="https://codenapp.com/site/images/Code_logo.svg"/>](https://codenapp.com/pt)
 
-**Front-end Developer** \
+**Full Stack Developer** \
 [**Code n'App**](https://codenapp.com/pt) • Full-time \
 Linguagens & Tecnologias: `React`, `Vue`, `Next`, `Node`, `Docker`, `TailwindCSS`, `Radix`, `Azure DevOps`\
 Projetos em destaque: Indsiders, Consiga e B2e
