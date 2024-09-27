@@ -1,5 +1,3 @@
-<img align="center" src="https://i.postimg.cc/SxvfsDqn/walp-linkedin.jpg" />
-
 <p align="left">
   <a href="mailto:joseph.haase.dev@gmail.com?Body=Come%20on,%20send%20me%20a%20message!!%20%20%0D%0D%0D" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:joseph.haase.dev@gmail.com?Body=Come%20on,%20send%20me%20a%20message!!%20%20%0D%0D%0D" />
@@ -15,7 +13,7 @@
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HJosephDEV&bg_color=0d1117&color=1A34FC&line=691DFE&point=FFDCA6&area=true&area_color=2B2F5E&title_color=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=haasedevv&bg_color=0d1117&color=1A34FC&line=691DFE&point=FFDCA6&area=true&area_color=2B2F5E&title_color=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Tecnologias de atuação ☕
 <br>
@@ -23,14 +21,14 @@
   
   [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,react,next)](https://skillicons.dev)
   <br>
-    [![Minhas Habilidades](https://skillicons.dev/icons?i=vite,jquery,styledcomponents,scss,tailwind,nodejs,postgresql)](https://skillicons.dev)
+    [![Minhas Habilidades](https://skillicons.dev/icons?i=vite,jquery,styledcomponents,scss,tailwind,nodejs,nestjs,python,postgresql)](https://skillicons.dev)
 </div>
 
 <br>
 
 <div align="center">
   
-[![HJosephDEV](https://github-readme-stats.vercel.app/api/top-langs/?username=HJosephDev&hide=html&layout=compact&theme=tokyonight)](https://github.com/HJosephDEV/)
+[![haasedevv](https://github-readme-stats.vercel.app/api/top-langs/?username=haasedevv&hide=html&layout=compact&theme=tokyonight)](https://github.com/haasedevv/)
 
 </div>
 
@@ -43,15 +41,10 @@
 
 **Front-end Developer** \
 [**Code n'App**](https://codenapp.com/pt) • Full-time \
-Linguagens & Tecnologias: `Vue`, `Vuex`, `Boostrap`, `VueMultiselect`, `Next`\
-Projetos em destaque: [Indsiders](https://indsiders.com)
+Linguagens & Tecnologias: `React`, `Vue`, `Next`, `Node`, `Docker`, `TailwindCSS`, `Radix`, `Azure DevOps`\
+Projetos em destaque: Indsiders, Consiga e B2e
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="indsiders" src="https://ugc.production.linktr.ee/sRWJgck5RFWrAMXrAmMY_CNId2o9dtM8j9O7r"/>](https://indsiders.com)
-
-**Front-end Developer** \
-[**Indsiders**](https://indsiders.com) • Projeto \
-Linguagens & Tecnologias: `Vue`, `Vuex`, `Boostrap`, `VueMultiselect`\
 <br/>
 
 <br/>
@@ -59,7 +52,7 @@ Linguagens & Tecnologias: `Vue`, `Vuex`, `Boostrap`, `VueMultiselect`\
 
 <div align="center">
 <br><p align="center"><b>Visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{HJosephDEV}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{haasedevv}/count.svg" /></p> 
 <br>
 </div>
 
