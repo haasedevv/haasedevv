@@ -107,7 +107,7 @@
   </tr>
 
   <tr>
-    <td>Ecosystem</td>
+    <td><strong>Ecosystem</strong></td>
     <td>
       <p>
         <img src = "https://img.shields.io/badge/shopify-7AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white" alt = "Shopify" />
