@@ -39,8 +39,6 @@
     <td><strong>Back-end</strong></td>
     <td>
       <p>
-        <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt = "C#" />
-        <img src = "https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt = ".net" />
         <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "Javascript" />
         <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "Typescript" />
         <img src = "https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt = "Nodejs" />
@@ -50,7 +48,6 @@
         <img src = "https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=3068B7" alt = "Zod" />
         <img src = "https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt = "RabbitMQ" />
         <img src = "https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt = "Redis" />
-        <img src = "https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt = "Kafka" />
         <img src = "https://img.shields.io/badge/API RESTful-000000?style=for-the-badge" alt = "API RESTful" />
         <img src = "https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt = "GraphQL" />
     </p>
