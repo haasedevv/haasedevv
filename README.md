@@ -7,8 +7,6 @@
 @@ ✨ If you can imagine it, you can program it. @@
 ```
 
-<br/>
-
 ### 🛠 Stacks
 
 #### Back-end
@@ -65,6 +63,5 @@
 
 
 <br/> 
-<br/> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haasedevv&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haasedevv&layout=compact&theme=tokyonight)
