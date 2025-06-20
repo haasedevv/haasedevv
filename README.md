@@ -1,7 +1,7 @@
 ### Hi! I'm Joseph 👋
   
 ```diff
-🛠 +4 years of professional experience.
+🛠 +3 years of professional experience.
 👨‍💻 Back-end developer.
 🎓 Graduated in Information Systems.
 @@ ✨ If you can imagine it, you can program it. @@
