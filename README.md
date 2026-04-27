@@ -1,7 +1,7 @@
 <h3 align="center">Desenvolvedor Backend</h3>
 
 <p align="center">
-  <strong>Node.js · NestJS · TypeScript · PostgreSQL · APIs REST · Docker · Cloud</strong>
+  <strong>Node.js · NestJS · Express · Fastify · TypeScript · PostgreSQL · MongoDB · APIs REST</strong>
 </p>
 
 <p align="center">
@@ -10,9 +10,6 @@
   </a>
   <a href="mailto:joseph.haase.dev@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/haasedevv">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://portfolio-hjosephdevs-projects.vercel.app/">
     <img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -25,9 +22,9 @@
 
 Atuo principalmente com **backend**, desenvolvendo APIs REST, integrações, regras de negócio e aplicações orientadas a dados.
 
-Minha base técnica está em **Node.js, NestJS, TypeScript, PostgreSQL, Docker, AWS e Azure**, com foco em arquitetura backend, organização de módulos, contratos de API, modelagem de dados, validação, testes, CI/CD e infraestrutura de desenvolvimento.
+Minha base técnica está em **Node.js, NestJS, Express, Fastify, TypeScript, PostgreSQL, MongoDB, Docker, AWS e Azure**, com foco em arquitetura backend, organização de módulos, contratos de API, modelagem de dados, validação, testes, CI/CD e infraestrutura de desenvolvimento.
 
-Tenho experiência complementar com **React.js, Next.js, shadcn/ui e Tailwind CSS**, o que me permite entregar demandas de frontend quando necessário e colaborar melhor na integração entre interface, APIs e produto — mantendo o foco principal em backend.
+Tenho experiência complementar com **React.js, Next.js, Zustand, shadcn/ui e Tailwind CSS**, o que me permite entregar demandas de frontend quando necessário e colaborar melhor na integração entre interface, APIs e produto — mantendo o foco principal em backend.
 
 ---
 
@@ -39,8 +36,11 @@ Tenho experiência complementar com **React.js, Next.js, shadcn/ui e Tailwind CS
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
   <img src="https://img.shields.io/badge/APIs%20REST-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white" />
@@ -56,6 +56,7 @@ Tenho experiência complementar com **React.js, Next.js, shadcn/ui e Tailwind CS
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
@@ -67,7 +68,7 @@ Tenho experiência complementar com **React.js, Next.js, shadcn/ui e Tailwind CS
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=zustand&logoColor=white" />
 </p>
 
 ### AI aplicada ao desenvolvimento
@@ -86,8 +87,9 @@ Tenho experiência complementar com **React.js, Next.js, shadcn/ui e Tailwind CS
 
 - Desenvolvimento de APIs REST com contratos claros, validação, tratamento de erros e organização por módulos.
 - Estruturação de arquitetura backend com separação de responsabilidades entre controllers, services, regras de negócio e acesso a dados.
-- Modelagem de dados com PostgreSQL, Prisma e TypeORM, pensando em consistência, manutenção e evolução do sistema.
+- Modelagem de dados com PostgreSQL, MongoDB, Prisma e TypeORM, pensando em consistência, manutenção e evolução do sistema.
 - Planejamento de infraestrutura com Docker, variáveis de ambiente, CI/CD, GitHub Actions, Azure DevOps, AWS e Azure.
+- Organização, priorização e acompanhamento de entregas com Jira, ClickUp e Azure DevOps.
 - Testes com Jest e Vitest para aumentar confiabilidade em regras de negócio, integrações e fluxos críticos.
 - Uso de **Codex** e **Claude Code** para apoiar planejamento técnico, quebra de requisitos em tarefas, refatorações e revisão de soluções.
 - Organização de contexto para agentes com **Domain Context Map** e `CLAUDE.md`, carregando apenas o necessário por domínio para reduzir ruído e custo de tokens.
@@ -112,9 +114,6 @@ Tenho experiência complementar com **React.js, Next.js, shadcn/ui e Tailwind CS
   </a>
   <a href="mailto:joseph.haase.dev@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/haasedevv">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://portfolio-hjosephdevs-projects.vercel.app/">
     <img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
