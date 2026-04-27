@@ -1,5 +1,3 @@
-<h1 align="center">Joseph Haase</h1>
-
 <h3 align="center">Desenvolvedor Backend</h3>
 
 <p align="center">
