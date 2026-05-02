@@ -102,7 +102,7 @@ Tenho experiência complementar com **React.js, Next.js, Zustand, shadcn/ui e Ta
 <p align="center">
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=haasedevv&layout=compact&theme=transparent&hide_border=true&langs_count=8" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=haaselabsdev&layout=compact&theme=transparent&hide_border=true&langs_count=8" 
   />
 </p>
 
